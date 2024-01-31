@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lo que escribimos en la rama master 
+=======
+Estamos modificando el archivo2.txt en ramab
+>>>>>>> ramab
